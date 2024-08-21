@@ -1,5 +1,3 @@
-# projeto-canabrava-school
-
 # ❇️ Projeto de Aplicativo Web Canabrava School
 - Este projeto tem pelo menos duas camadas, a landing page e o sistema interno, com rotas protegidas. Trata-se de um app web de cursos online de programação.
 
